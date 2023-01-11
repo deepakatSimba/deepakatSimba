@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepakatSimba
+- 👋 Hi, I’m Deepak
 
 
 <!---
